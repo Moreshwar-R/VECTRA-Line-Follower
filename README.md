@@ -4,7 +4,7 @@
 
 VECTRA is a high-speed competition line follower designed to stay locked on the track even when the layout changes from one event to the next. A wide 10-channel IR array reads sharp turns, acute angles and intersections, while decisive LSRB logic layered over a tuned PID controller keeps every junction predictable. Built around an ESP32 and a TB6612FNG driver, it balances speed, stability and fast trackside tuning.
 
-<img src="docs/images/bot.jpg" alt="VECTRA line follower robot" width="520">
+<img src="docs/images/bot.jpeg" alt="VECTRA line follower robot" width="520">
 
 <br>
 
@@ -61,19 +61,19 @@ VECTRA is a high-speed competition line follower designed to stay locked on the 
 
 **Schematic**
 
-<img src="docs/images/schematic.jpg" alt="Schematic" width="640">
+<img src="docs/images/schematic.jpeg" alt="Schematic" width="640">
 
 <br>
 
 **PCB Layout**
 
-<img src="docs/images/pcb.jpg" alt="PCB layout" width="520">
+<img src="docs/images/pcb.jpeg" alt="PCB layout" width="520">
 
 <br>
 
 **3D Model**
 
-<img src="docs/images/3d.jpg" alt="3D model" width="640">
+<img src="docs/images/3d.jpeg" alt="3D model" width="640">
 
 </div>
 
