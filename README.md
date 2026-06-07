@@ -14,14 +14,6 @@ VECTRA is a high-speed competition line follower designed to stay locked on the 
 
 ---
 
-## 📌 Overview
-
-- A high-speed line follower raced across multiple competition tracks.
-- A 10-channel IR array gives the width to read sharp turns, acute angles and intersections.
-- Decisive turn logic sits on top of PID, so junctions are handled by rules — not luck.
-
----
-
 ## ✨ Features
 
 - **Wide 10-sensor coverage** — handles different track layouts without re-wiring.
